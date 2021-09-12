@@ -1,5 +1,5 @@
 import "./topbar.css"
-import wwc from "../../src/assets/wwc.png"
+import wwc from "../../assets/wwc.png"
 
 export default function TopBar() {
     return (
