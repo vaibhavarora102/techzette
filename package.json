@@ -1,6 +1,6 @@
 {
-  "homepage": "https://github.com/WorkWithCraze/techzette",
   "name": "techzette",
+  "homepage": "https://workwithcraze.github.io/techzette/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
