@@ -16,7 +16,6 @@
 <a href="https://github.com/WorkWithCraze/meetTheTeam/pulls"><img src="https://img.shields.io/github/issues-pr/WorkWithCraze/meetTheTeam?color=brightgreen"></a>
 <a href="https://github.com/WorkWithCraze/techzette/pulls?q=is%3Apr+is%3Aclosed"><img src="https://img.shields.io/github/issues-pr-closed-raw/WorkWithCraze/techzette?color=0059b3"></a> 
 
-## A library to To explore DNA concepts in dept for both medical and Research purpose.
 </div>
 
 ## 📜 Instructions to follow while contributing to techzette
